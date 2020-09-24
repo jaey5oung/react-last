@@ -38,7 +38,7 @@ const Auth = () => {
       </form>
       <div>
         <button>Continue with Google</button>
-        <button>Continue with Github</button>
+        <button>Continue with </button>
       </div>
     </div>
   )
